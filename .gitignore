@@ -1,0 +1,17 @@
+.idea/
+bin/
+lib/
+include/
+pip-selfcheck.json
+*local_settings.py
+.Python
+*.pyc
+*.DS_Store
+src/chinare/*/migrations/
+*bower_components/
+migrations/
+/static
+/res
+db.sqlite3
+@tmp
+src/chinare/db.sqlite3
